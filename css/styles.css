@@ -181,14 +181,14 @@ body {
 }
 .title-wraper {
 	font-weight: 600;
-	font-size: 56px;	
+	font-size: 60px;	
 }
 .description-wrapper {
 	font-size: 26px;
 	padding: 10px 0;
 }
 .price-wrapper {
-	color: #86868b; 
+	color: #6262a0; 
 	font-size: 0.85em;
 }
 /* Third Highlight Section */
